@@ -1,0 +1,16 @@
+# Backend
+expense-tracker-backend/target/
+
+# Frontend
+expense-tracker-frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
