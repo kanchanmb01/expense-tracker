@@ -118,6 +118,50 @@ Backend: http://localhost:8090
 
 ---
 
+## Application Screenshots
+
+### User Registration
+
+![User Registration](screenshots/user-registration.png)
+
+### Login Page
+
+![Login Page](screenshots/login-page.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Income Management
+
+![Income Management](screenshots/income-management.png)
+
+### Add Income
+
+![Add Income](screenshots/add-income.png)
+
+### Expense Management
+
+![Expense Management](screenshots/expense-management.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add-expense.png)
+
+### Reports
+
+![Reports](screenshots/reports.png)
+
+### Update User Profile
+
+![Update User Profile](screenshots/update-userprofile.png)
+
+## Sample Generated Report
+
+[Sample Monthly Report](screenshots/monthly-report.pdf)
+
+---
+
 ## Project Structure
 
 ### Backend (Spring Boot)
