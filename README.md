@@ -134,7 +134,7 @@ Backend: http://localhost:8090
 
 ### Income Management
 
-![Income Management](screenshots/income-management.png)
+![Income Management](screenshots/Income-management.png)
 
 ### Add Income
 
@@ -174,6 +174,8 @@ expense-tracker-backend
 │   │   ├── JwtFilter
 │   │   ├── JwtUtil
 │   │   └── SecurityConfig
+│   │   └── CustomUserDetails
+│   │   └── CustomUserDetailsService
 │   │
 │   ├── controller
 │   │   ├── AuthController
@@ -203,6 +205,9 @@ expense-tracker-backend
 │   │   
 │   ├── exception
 │   │   ├──GlobalExceptionHandler
+│   │   ├──ResourceNotFoundException
+│   │   ├──UserAlreadyExistsException
+│   │   ├──ErrorResponse
 |   |
 │   └── ExpenseTrackerApplication
 │
