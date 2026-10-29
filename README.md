@@ -315,9 +315,20 @@ Stores user expense records.
 
 ---
 
+## Documentation
+
+- Database Design Document
+- Entity Relationship (ER) Diagram
+- JWT Authentication Test Cases
+- Validation Test Cases
+
+Available under the `documents` folder.
+
+---
+
 ## Author
 
-Kanchan Bhate
+KanchanmB
 Java Full Stack Developer
 
 GitHub:
